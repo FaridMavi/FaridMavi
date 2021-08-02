@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaridMavi
 - 👀 I’m interested in learning and coding
 - 🌱 I’m currently learning java, html, rdbms, & python
-- 💞️ I’m looking to collaborate on doing program for community
+- 💞️ I’m looking to collaborate on doing and teaching coding for community
 - 📫 How to reach me faridmavi91@gmail.com
 
 <!---
